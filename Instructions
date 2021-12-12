@@ -1,0 +1,5 @@
+Use cmd node <filename>.js
+
+1. Elementary sorts - bubble, selection and insertion
+2. Worst case time complexity is O(n^2) and space complexity is O(1) for all elementary sort algos
+3. Bubble and insertion sorts have O(n) time complexity if array is almost sorted
